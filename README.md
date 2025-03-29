@@ -123,14 +123,3 @@ License
 
 This project is licensed under the MIT License.
 
-```
-
-Tips for the README
-
-Repository URL:  https://github.com/nitish912/TextFieldPro.git that hosts the TextFieldPro package.
-
-SPM Integration: Ensure that your package is correctly configured in your GitHub repository with a Package.swift file at its root.
-
-Version Management: Indicate the latest stable version in the installation instructions.
-
-Usage Examples: Provide real-world code snippets to help users quickly understand how to implement and use the component in their projects.
